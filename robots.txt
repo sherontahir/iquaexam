@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fielueloxi.dontparkhere.com/sitemap.xml
